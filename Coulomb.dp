@@ -1,0 +1,14 @@
+[Project]
+FileName=C:\Users\Ozorio De Brito Luis\Documents\Coulomb.dp
+Name=Coulomb
+MainUnit=C:\Users\Ozorio De Brito Luis\Documents\CalcElectrostatica.pas
+UnitCount=1
+ResFiles=C:\Users\Ozorio De Brito Luis\Documents\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Ozorio De Brito Luis\Documents\CalcElectrostatica.pas
+FileTime=1379803762
+[Unit0]
+FileTime=1379803782
